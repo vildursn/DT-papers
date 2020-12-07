@@ -11,3 +11,7 @@ A summary of my literature review on decision trees related to XAI.
 
 # Books
 ### Machine learning under a modern optimization lens. Bertsimas, Dunn. 2019
+
+# Other resources
+
+### [benedekrozemberczki's list of awesome decision tree papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/README.md)
